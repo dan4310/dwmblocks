@@ -10,6 +10,8 @@ static const Block blocks[] = {
 	{"", "sb-forecast", 60*60},
 
 	{"", "sb-clock",					5,		0},
+
+	{"", "sb-volume"},
 	
 	{"Wifi: ", "sb-internet", 5, 0}
 };
