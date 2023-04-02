@@ -11,7 +11,7 @@ static const Block blocks[] = {
 
 	{"", "sb-clock",					5,		0},
 
-	{"", "sb-volume"},
+	{"Volume: ", "vol get", 0, 10},
 	
 	{"Wifi: ", "sb-internet", 5, 0}
 };
